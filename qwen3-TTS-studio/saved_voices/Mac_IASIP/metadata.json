@@ -1,0 +1,32 @@
+{
+  "name": "Mac_IASIP",
+  "description": "This is Mac from Philly",
+  "style_note": "",
+  "ref_text": "Kinda backed up the whole system",
+  "model": "1.7B-Base",
+  "created": "2026-02-04T20:00:19.951073",
+  "multi_sample": true,
+  "num_samples": 2,
+  "samples": [
+    {
+      "path": "C:\\Users\\zdesk\\AppData\\Local\\Temp\\gradio\\1ff2982cff0a9f508e030914b1f411f1e86a3fae1b16db8fe7243ec35d54632a\\Recording 2026-02-04 194821.m4a",
+      "duration": 0.0,
+      "transcript": "Kinda backed up the whole system",
+      "snr_estimate": 20.0,
+      "is_primary": true,
+      "weight": 0.5
+    },
+    {
+      "path": "C:\\Users\\zdesk\\AppData\\Local\\Temp\\gradio\\85e2b01a847785cf01757aca019b6ea9553095709d5b03271f60c23702c4b0b8\\Recording 2026-02-04 195508.m4a",
+      "duration": 0.0,
+      "transcript": "The breast are only gonna keep getting bigger and",
+      "snr_estimate": 20.0,
+      "is_primary": false,
+      "weight": 0.5
+    }
+  ],
+  "ref_audio_paths": [
+    "ref_audios\\sample_00_Recording 2026-02-04 194821.m4a",
+    "ref_audios\\sample_01_Recording 2026-02-04 195508.m4a"
+  ]
+}

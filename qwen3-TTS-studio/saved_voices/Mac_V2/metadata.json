@@ -1,0 +1,23 @@
+{
+  "name": "Mac_V2",
+  "description": "A man from Philly. This is mac with more context. ",
+  "style_note": "This is mac",
+  "ref_text": "Kinda backed up the whole system. The Breasts are only gonna keep getting bigger and. No matter, I'm righteous.  Oh, Oh look there's Dee!",
+  "model": "1.7B-Base",
+  "created": "2026-02-04T20:13:53.289102",
+  "multi_sample": true,
+  "num_samples": 1,
+  "samples": [
+    {
+      "path": "C:\\Users\\zdesk\\AppData\\Local\\Temp\\gradio\\fa43c02bf57a39d3e69fcb980feef859498b3e2b4345618ad4ebf8f86065233d\\combined_audio.m4a",
+      "duration": 0.0,
+      "transcript": "Kinda backed up the whole system. The Breasts are only gonna keep getting bigger and. No matter, I'm righteous.  Oh, Oh look there's Dee!",
+      "snr_estimate": 20.0,
+      "is_primary": true,
+      "weight": 1.0
+    }
+  ],
+  "ref_audio_paths": [
+    "ref_audios\\sample_00_combined_audio.m4a"
+  ]
+}

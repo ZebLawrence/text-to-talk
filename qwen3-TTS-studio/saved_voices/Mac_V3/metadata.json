@@ -1,0 +1,23 @@
+{
+  "name": "Mac_V3",
+  "description": "This is the voice of Mac from \"It's Always Sunny In Philadelphia \"",
+  "style_note": "This voice is best used with a wide range of calm to exclamatory statements. There is always a lot of passion in everything he says.",
+  "ref_text": "You banged me, like right away. No No these are my chips. There is no quicker way for people to think that you are diddling kids than by writing a song about it! There's no way you guys can convert me to your lifestyle. If the McPoyals got blown and Charlie got blown then why didn't I get blown. I think the problem here is your body quit, your bird quit, and unfortunately it's no longer legit.  GUYS GUYS GUYS,  I got some news, some TERRIBLE news, we got a HUUGE problem. Well first of all through God all things are possible so jot that down. IF YOU WANTED SOME GODDAMN CHIPS YOU SHOULD HAVE GOTTEN SOME GODAMN CHIPS AT THE HAMBURGER SHOP! You're not the one on TV dressed like a terrorist threatening Jews Charlie. Science is a liar sometimes.",
+  "model": "1.7B-Base",
+  "created": "2026-02-16T10:08:08.110987",
+  "multi_sample": true,
+  "num_samples": 1,
+  "samples": [
+    {
+      "path": "C:\\Users\\zdesk\\AppData\\Local\\Temp\\gradio\\7c39f8924756c9cfe2a625bdcd98537e2adbb109156a2dc33e4ffa8733a72493\\MacV3.m4a",
+      "duration": 0.0,
+      "transcript": "You banged me, like right away. No No these are my chips. There is no quicker way for people to think that you are diddling kids than by writing a song about it! There's no way you guys can convert me to your lifestyle. If the McPoyals got blown and Charlie got blown then why didn't I get blown. I think the problem here is your body quit, your bird quit, and unfortunately it's no longer legit.  GUYS GUYS GUYS,  I got some news, some TERRIBLE news, we got a HUUGE problem. Well first of all through God all things are possible so jot that down. IF YOU WANTED SOME GODDAMN CHIPS YOU SHOULD HAVE GOTTEN SOME GODAMN CHIPS AT THE HAMBURGER SHOP! You're not the one on TV dressed like a terrorist threatening Jews Charlie. Science is a liar sometimes.",
+      "snr_estimate": 20.0,
+      "is_primary": true,
+      "weight": 1.0
+    }
+  ],
+  "ref_audio_paths": [
+    "ref_audios\\sample_00_MacV3.m4a"
+  ]
+}

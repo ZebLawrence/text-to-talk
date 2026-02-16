@@ -38,7 +38,6 @@ Qwen3-TTS/
 # User data
 generation_history/
 podcasts/
-saved_voices/
 personas/
 tts_settings.json
 
