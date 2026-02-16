@@ -1,0 +1,28 @@
+# Qwen3-TTS Studio Requirements
+# Combined requirements for both UI and API
+
+# Core TTS
+qwen-tts>=0.1.0
+
+# API Server
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+
+# UI
+gradio>=4.0.0
+
+# Audio processing
+soundfile>=0.12.0
+numpy>=1.24.0
+moviepy>=1.0.0
+
+# AI & ML
+torch>=2.0.0
+transformers>=4.30.0
+
+# Podcast generation (optional)
+openai>=1.0.0
+
+# Utilities
+Pillow>=10.0.0
